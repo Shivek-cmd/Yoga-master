@@ -4,7 +4,7 @@ import { ThemeProvider, THEME_ID, createTheme } from "@mui/material/styles";
 import Switch from "@mui/material/Switch";
 import { motion } from "framer-motion";
 import photoURL from "../../assets/home/girl.jpg";
-import { FaBars, FaClosedCaptioning } from "react-icons/fa";
+import { FaBars } from "react-icons/fa";
 
 const navLinks = [
   {
